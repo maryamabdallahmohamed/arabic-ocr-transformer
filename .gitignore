@@ -1,0 +1,5 @@
+.venv
+notebooks/.cache
+qari_ocr/Qari_model_cache
+.DS_Store
+qari_ocr/Qwen_processor_cache
