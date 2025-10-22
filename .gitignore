@@ -3,3 +3,8 @@ notebooks/.cache
 qari_ocr/Qari_model_cache
 .DS_Store
 qari_ocr/Qwen_processor_cache
+
+qwen3_ocr/qwen_model_cache
+من معتمدات الكتب
+*.pdf
+*.png
