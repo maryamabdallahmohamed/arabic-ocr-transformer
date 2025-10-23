@@ -8,3 +8,9 @@ qwen3_ocr/qwen_model_cache
 من معتمدات الكتب
 *.pdf
 *.png
+*.jpeg
+*.jpg
+*.json
+*.zip
+layout_pipeline/paddlepaddle
+layout_pipeline/sam
