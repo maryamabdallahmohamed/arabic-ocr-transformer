@@ -12,5 +12,5 @@ qwen3_ocr/qwen_model_cache
 *.jpg
 *.json
 *.zip
-layout_pipeline/paddlepaddle
-layout_pipeline/sam
+layout_pipeline/suraya/Qwen_processor_cache
+layout_pipeline/suraya/Qari_model_cache
